@@ -1,10 +1,17 @@
 # ac
+```
+      _                   __    ___
+ ___ /|\ = ~ - ~   -   ~ / _\  / __)
+|___|-o-| = - ~ - -   ~ /    \( (__
+ ||  \|/ = ~ ~ - ~   .  \_/\_/ \___)
+ /\
+```
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library for running functions as a separate JVM.
 
 ## Usage
 
-FIXME
+Coming soon!
 
 ## License
 
