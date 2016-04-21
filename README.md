@@ -7,7 +7,7 @@
  /\
 ```
 
-A Clojure library for running functions as a separate JVM.
+Keep your root application running cool by running functions in a separate JVM.
 
 ## Usage
 
