@@ -11,6 +11,8 @@ A Clojure library for running functions as a separate JVM.
 
 ## Usage
 
+_a release on clojars is coming soon!_
+
 ```clojure
 (ns demo
   (:require [me.alxmnn.ac :as ac]))
