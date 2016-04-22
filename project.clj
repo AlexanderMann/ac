@@ -1,4 +1,4 @@
-(defproject me.alxmnn/ac "0.1.0"
+(defproject me.alxmnn/ac "0.1.1-SNAPSHOT"
   :description "A library for running functions in a separate JVM."
   :url "https://github.com/AlexanderMann/ac"
   :license {:name "Eclipse Public License"
