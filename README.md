@@ -12,6 +12,7 @@ Keep your root application running cool by running functions in a separate JVM.
 ## Usage
 
 [![Clojars Project](https://img.shields.io/clojars/v/me.alxmnn/ac.svg)](https://clojars.org/me.alxmnn/ac)
+[![Circle CI](https://circleci.com/gh/AlexanderMann/ac/tree/master.svg?style=svg)](https://circleci.com/gh/AlexanderMann/ac/tree/master)
 
 
 ```clojure
